@@ -24,6 +24,7 @@ Dataset: [U.S. Census Bureau and the Behavioural Risk Factor Surveillance System
 
 ## **Project Charter:**
 (1) Display script from repository\
+\
 (2) Display website https://viktiger.github.io/VS_Assignment16_D3/
 
 ## **Coding Languages:**
@@ -35,9 +36,9 @@ Dataset: [U.S. Census Bureau and the Behavioural Risk Factor Surveillance System
 (6) JSON
 
 ## **Observations:**
-Scatter plot depicting Healthcare vs. Poverty or Smokers vs. Age. Select an item in the dropdown menu and see the results.\
+Scatter plot depicting Healthcare vs. Poverty or Smokers vs. Age. Select an item in the dropdown menu and see the results.
 
-Hovering over each data point provides for further details.\
+Hovering over each data point provides for further details.
 
 ## **Project Authors:**
 Author - viktiger
