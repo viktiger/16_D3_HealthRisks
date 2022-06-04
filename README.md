@@ -38,8 +38,9 @@ Dataset: [U.S. Census Bureau and the Behavioural Risk Factor Surveillance System
 (6) JSON
 
 ## **Observations:**
-Scatter plot depicting Healthcare vs. Poverty or Smokers vs. Age. Select an item in the dropdown menu and see the results.
+From the CensusData there are a few correlations discovered of health risks between the following variables: Obesity, Smoking, Lack of Healthcare, Household Income, Age and Poverty Conditions. The scatter plot depicts the correlations in an interactive manner.
 
+Select a variable on either of the axis and see the results.
 Hovering over each data point provides for further details.
 
 ## **Project Authors:**
