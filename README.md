@@ -34,6 +34,7 @@ Dataset: [U.S. Census Bureau and the Behavioural Risk Factor Surveillance System
 (3) Plotly\
 (4) Bootstrap\
 (5) CSS\
+(6) D3\
 (6) JSON
 
 ## **Observations:**
