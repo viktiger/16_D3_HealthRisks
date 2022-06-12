@@ -1,7 +1,5 @@
 # VS_Assignment16_D3
 
-![D3TitlePage](D3TitlePage.JPG)
-
 ## **Project Parts:**
 (1) Background Images: D3TitlePage.jpg\
 \
