@@ -1,4 +1,4 @@
-# VS_Assignment16_D3
+# 16_D3
 
 ## **Project Parts:**
 (1) Background Images: D3TitlePage.jpg\
@@ -24,7 +24,7 @@ Dataset: [U.S. Census Bureau and the Behavioural Risk Factor Surveillance System
 ## **Project Charter:**
 (1) Display script from repository\
 \
-(2) Display website https://viktiger.github.io/VS_Assignment16_D3/
+(2) Display website https://viktiger.github.io/16_D3/
 
 ## **Coding Languages:**
 (1) Javascript\
